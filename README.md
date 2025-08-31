@@ -6,7 +6,7 @@ PIM - Projeto Integrado Multidisciplinar: Desenvolvimento de uma Solução para 
 ## Descrição do Desafio
 O desafio do projeto é desenvolver uma solução para ajudar micro e pequenas empresas (MPEs) a gerenciar seus negócios de forma mais eficiente. A aplicação busca resolver a dor de donos de pequenos negócios que enfrentam dificuldades na organização de dados de clientes, controle de estoque e monitoramento de vendas, otimizando processos e oferecendo uma visão clara do desempenho financeiro.
 
-## Backlog do Produto
+## [Backlog do Produto](https://github.com/JoaoPcvv/PimWeb/blob/main/Analise%20POO/Requisitos.txt)
 * **Gerenciamento de Clientes:** Cadastro, edição e visualização de informações de clientes.
 * **Controle de Estoque:** Inclusão e remoção de produtos, com atualização automática das quantidades disponíveis.
 * **Dashboard de Vendas:** Relatórios visuais e gráficos para acompanhar o desempenho de vendas ao longo do tempo.
