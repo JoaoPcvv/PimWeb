@@ -1,51 +1,23 @@
-## Título do projeto
+# Projeto PIM - Solução para Micro e Pequenas Empresas (MPEs)
 
-## Integrantes
-- [Thor de Oliveira Morciani - G96DFD3](https://github.com/ThorMorciani)
-- [Caio Henrique Barbosa Santos - G976690](https://github.com/CaioHennrique)
-- [Daniel Fagundes da Mota Filho - G97BJA0](https://github.com/DANFAGUNDES0)
-- [Murilo Câmara da Silva – G9843G0](https://github.com/MuriloCSilva)
-- [Joel Rodrigues Pereira - R0507H0](https://github.com/JoelRP00)
-- [João Pedro Costa Vieira - G956HJ7](https://github.com/JoaoPcvv)
+## Título do Projeto
+PIM - Projeto Integrado Multidisciplinar: Desenvolvimento de uma Solução para Micro e Pequenas Empresas (MPEs)
 
-## [User Stories](https://github.com/ThorMorciani/PimWeb/blob/main/Analise%20POO/User%20Stories.txt)
+## Descrição do Desafio (com a dor do Parceiro)
+O desafio do projeto é desenvolver uma solução para ajudar micro e pequenas empresas (MPEs) a gerenciar seus negócios de forma mais eficiente. A aplicação busca resolver a dor de donos de pequenos negócios que enfrentam dificuldades na organização de dados de clientes, controle de estoque e monitoramento de vendas, otimizando processos e oferecendo uma visão clara do desempenho financeiro.
 
-## [Requisitos](https://github.com/ThorMorciani/PimWeb/blob/main/Analise%20POO/Requisitos.txt)
+## Backlog do Produto
+* **Gerenciamento de Clientes:** Cadastro, edição e visualização de informações de clientes.
+* **Controle de Estoque:** Inclusão e remoção de produtos, com atualização automática das quantidades disponíveis.
+* **Dashboard de Vendas:** Relatórios visuais e gráficos para acompanhar o desempenho de vendas ao longo do tempo.
+* **Sistema de Login:** Autenticação de usuários para acesso seguro à plataforma.
 
-## --- Backlog ---
+## Tecnologias Utilizadas
+* **Front-end:** HTML, CSS, JavaScript
+* **Back-end:** C# (ASP.NET)
+* **Banco de Dados:** SQL Server
+* **Gerenciador de Pacotes:** NuGet
+* **Versionamento:** Git e GitHub
 
-## Sprint 1: 31/03/2025 - 07/04/2025
-## Tarefas:
-1. Levantar os requisitos funcionais e não funcionais do projeto.
-2. Criar os repositórios no Git.
-3. Iníciar a documentação do sistema.
-
-## Sprint 2: 07/04/2025 - 14/04/2025
-## Tarefas:
-1. Criar o diagrama de banco de dados.
-2. Criar o diagrama de casos de uso.
-
-## Sprint 3: 14/04/2025 - 21/04/2025
-## Tarefas:
-1. Criar o diagrama de classes.
-2. Corrigir casos de uso.
-3. Validar documentação com os professores. 
-
-## Sprint 4: 21/04/2025 - 28/04/2025
-## Tarefas:
-1. Criar o diagrama de casos de uso descritivos.
-2. Criar diagrama de sequência.
-3. Validar documentação com os professores.
-
-## Sprint 5: 28/04/2025 - 05/05/2025 /n
-## Tarefas:
-1. Criar a planilha de testes unitários.
-2. Validar protótipo com professor responsável.
-3. Validar documentação com os professores.
-
-## Sprint 6: 05/05/2025 - 12/05/2025
-## Tarefas:
-1. Validar protótipo com professor responsável.
-2. Validar documentação com os professores.
-
-## --- FIM Backlog ---
+## Estrutura do Projeto
+A estrutura principal do projeto é a seguinte:
