@@ -3,7 +3,7 @@
 ## Título do Projeto
 PIM - Projeto Integrado Multidisciplinar: Desenvolvimento de uma Solução para Micro e Pequenas Empresas (MPEs)
 
-## Descrição do Desafio (com a dor do Parceiro)
+## Descrição do Desafio
 O desafio do projeto é desenvolver uma solução para ajudar micro e pequenas empresas (MPEs) a gerenciar seus negócios de forma mais eficiente. A aplicação busca resolver a dor de donos de pequenos negócios que enfrentam dificuldades na organização de dados de clientes, controle de estoque e monitoramento de vendas, otimizando processos e oferecendo uma visão clara do desempenho financeiro.
 
 ## Backlog do Produto
