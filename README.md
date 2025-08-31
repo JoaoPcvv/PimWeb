@@ -19,7 +19,7 @@ Aqui você deve inserir uma imagem com a linha do tempo do seu projeto.
 
 
 ## Tabela descritiva das Sprints
-| Período da Sprint | Link para Documentação da Sprint | Link para Vídeo no Youtube do Incremento entregue |
+| Período da Sprint | Link para Documentação da Sprint |
 | :--- | :--- | :--- |
 | **Sprint 1**<br>De 01/08 a 15/08 | [Documentação da Sprint 1](Docs/DoD-e-DoR-Sprint-1.md) |
 | **Sprint 2**<br>De 16/08 a 30/08 | [Documentação da Sprint 2](Docs/DoD-e-DoR-Sprint-2.md) |
