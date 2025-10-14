@@ -77,7 +77,9 @@ O AIssist permitirá que o usuário tenha total controle sobre o chamado aberto 
 ## Diagramas UML <a id="diagramas"></a>
 [Diagramas](CasoDeUsoPIM.asta)
 
-
+- [Thor de Oliveira Morciani - G96DFD3](h
+- (https://unipead-my.sharepoint.com/:w:/r/personal/joao_vieira75_aluno_unip_br/_layouts/15/doc2.aspx?sourcedoc=%7B73CAA478-1B78-4826-9214-D6B3C094B8AF%7D&file=ESTRUTURA_PIM%20IV_2025(ADS).docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1757632952882&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=b755f598-beb4-4ac8-978f-4efc2b98ae7c&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=508eabd1-6c14-4b48-bf83-ba65079d50a8)
+- 
 ## Integrantes <a id="integrantes"></a>
 
 - [Thor de Oliveira Morciani - G96DFD3](https://github.com/ThorMorciani)
