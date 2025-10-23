@@ -82,7 +82,6 @@ O AIssist permitirá que o usuário tenha total controle sobre o chamado aberto 
  <a href="https://unipead-my.sharepoint.com/:w:/r/personal/joao_vieira75_aluno_unip_br/_layouts/15/Doc.aspx?sourcedoc=%7B73CAA478-1B78-4826-9214-D6B3C094B8AF%7D&file=ESTRUTURA_PIM%20IV_2025(ADS).docx&action=default&mobileredirect=true&DefaultItemOpen=1&wdOrigin=OFFICECOM-WEB.APPGALLERY%2CAPPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=3ad9956b-3f1c-4d0b-9f93-feb27d3fa33a&wdPreviousSessionSrc=AppHomeWeb&ct=1761245237367"><img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white"></a>
 
 
-- 
 ## Integrantes <a id="integrantes"></a>
 
 - [Thor de Oliveira Morciani - G96DFD3](https://github.com/ThorMorciani)
